@@ -26,4 +26,4 @@
 <li> Input type range: (https://www.w3schools.com/tags/att_input_type_range.asp)</li>
 
 <h2> Project Preview</h2>
-(https://ali-tahir4024.github.io/Update-CSS-variable-with-JS./)
+(https://hamzaashfaq01.github.io/Update-Css-Variable-With-Js/)
